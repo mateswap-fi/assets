@@ -1,4 +1,4 @@
-# BoneSwap Assets Info
+# MateSwap Assets Info
 
 ![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
 
@@ -15,7 +15,7 @@
 
 - [ ] Create a pull request to the main repo
 
-- [ ] Add link to boneswap-fi/default-token-list Issue
+- [ ] Add link to mateswap-fi/default-token-list Issue
 
 
 ## Scripts

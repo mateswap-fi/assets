@@ -1,0 +1,11 @@
+{
+    "name": "LAC",
+    "website": "https://www.lachain.network/",
+    "white_paper": "https://assets.website-files.com/64525847f454943be8860a18/657b0095c77324170853aaaa_LaChain%20Whitepaper%202023-12-11%20(1).pdf",
+    "description": "build from LatAm",
+    "explorer": "https://explorer.lachain.network/",
+    "symbol": "LAC",
+    "type": "COIN",
+    "decimals": 18,
+    "status": "active"
+}
